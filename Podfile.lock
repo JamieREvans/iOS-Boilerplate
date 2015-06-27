@@ -1,0 +1,31 @@
+PODS:
+  - Cedar (0.11.3)
+  - FoundationPlus (1.0.2)
+  - Mantle (2.0.2):
+    - Mantle/extobjc (= 2.0.2)
+  - Mantle/extobjc (2.0.2)
+  - NetworkSimple (1.1.1):
+    - NSJSONSerialization-NSNullRemoval (~> 1.0)
+    - Reachability (~> 3.2)
+  - NSJSONSerialization-NSNullRemoval (1.0.1)
+  - Reachability (3.2)
+  - UIKitPlus (1.0.3):
+    - FoundationPlus (~> 1.0.0)
+
+DEPENDENCIES:
+  - Cedar (~> 0.1)
+  - FoundationPlus (~> 1.0)
+  - Mantle (~> 2.0)
+  - NetworkSimple (~> 1.0)
+  - UIKitPlus (~> 1.0)
+
+SPEC CHECKSUMS:
+  Cedar: ab1ea4e5c8af4ee4a8fa0452936679861876dc80
+  FoundationPlus: 7a440690980edfa23282ec38dd1148dfff51a868
+  Mantle: 967fd31ea0220890b2e76589198996b534bb3fb1
+  NetworkSimple: d0c65c7cef40e60fcc228b991c9eafa3b28f4162
+  NSJSONSerialization-NSNullRemoval: 4c50d948b7805807ea8ce690d48e05ee679ef5b7
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  UIKitPlus: 9fc0691919a4d6ee4ae430aee405e0636ab028ee
+
+COCOAPODS: 0.37.2

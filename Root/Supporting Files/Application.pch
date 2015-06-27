@@ -1,0 +1,15 @@
+//
+//  Bantr.pch
+//  Bantr
+//
+//  Created by Jamie Evans on 2015-06-25.
+//  Copyright (c) 2015 JamieREvans. All rights reserved.
+//
+
+#ifndef Bantr_Bantr_pch
+#define Bantr_Bantr_pch
+
+#import <FoundationPlus.h>
+#import <UIKitPlus+Basic.h>
+
+#endif
